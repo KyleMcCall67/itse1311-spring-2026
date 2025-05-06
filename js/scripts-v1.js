@@ -13,7 +13,7 @@
 
 // to concatenate means to put together, and the symbol is a plus sign +
 
-//var yourName = "Raul Gonzalez";
+//var yourName = "Kyle McCall";
 
 //const yourName;
 
@@ -21,8 +21,8 @@
 
 function sayMyName() {
     //some function
-    let yourName = "Raul Gonzalez";
-    yourName = "Raul B. Gonzalez";
+    let yourName = "Kyle McCall";
+    yourName = "Kyle M. McCall";
     console.log("My name is " + yourName);
 }
 

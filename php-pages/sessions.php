@@ -2,7 +2,7 @@
 
 session_start();
 
-$myName = "Raul Gonzalez";
+$myName = "Kyle McCall";
 
 $_SESSION['myName'] = $myName;
 
